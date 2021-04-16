@@ -13,7 +13,6 @@
 -  :clapper:I love to draw and edit videos in my spare time 
 - ⚡ I like to write code and test it in action 
 
-
 <br />
 
 ### Languages and Tools:
