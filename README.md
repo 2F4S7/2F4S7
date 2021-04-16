@@ -10,10 +10,9 @@
 - Databases – MySQL
    
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+-  :clapper:I love to draw and edit videos in my spare time 
+- ⚡ I like to write code and test it in action 
+
 
 <br />
 
