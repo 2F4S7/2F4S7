@@ -3,7 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=2F4S7)
 
 ## I am studying on a Full Stack Developer course
-### explore
+
+### Explore
 - Front End – HTML, CSS, JavaScript, Bootstrap
 - Back End – PHP, Python, NodeJS
 - Databases – MySQL, MongoDB, CouchDB, Hadoop
