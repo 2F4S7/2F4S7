@@ -9,10 +9,10 @@
 - Back End – PHP, Python, NodeJS
 - Databases – MySQL
  
- ### Hobby
+ ### ⚡Hobby
 - 💪 I like to write code
--  :clapper:I love to draw and edit videos in my spare time 
-- ⚡ I like to write code and test it in action 
+-  :clapper:I like to draw and edit videos in my spare time 
+- :gear: I like to write code and test it in action 
 
 <br />
 
