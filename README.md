@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Mikhail
+### Hello there 👋, I'm Mikhail
 
 ![](https://komarev.com/ghpvc/?username=2F4S7)
 
-## I am studying on a Full Stack Developer course
+## I am studying on a Full Stack Developer course :man_student:
 
-### Explore
+### :books:Explore
 - Front End – HTML, CSS, JavaScript, Bootstrap
 - Back End – PHP, Python, NodeJS
 - Databases – MySQL
