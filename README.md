@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2f4s7&label=Profile%20views&color=0e75b6&style=flat" alt="2f4s7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2f4s7" alt="2f4s7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2f4s7&rank=SSS,SS,S,AAA,AA,A&row=2&column=3" alt="2f4s7" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
