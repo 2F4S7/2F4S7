@@ -13,7 +13,7 @@
 ### ⚡Hobby
 
 - 💪 I like to write code
-- :clapper:I like to draw and edit videos in my spare time
+- :clapper: I like to draw and edit videos in my free time
 - :gear: I like to write code and test it in action
 
 <br />
