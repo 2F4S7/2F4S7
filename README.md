@@ -18,7 +18,7 @@
 
 <br />
 
-### :fax: How to reach me **nightsta1kerhf@gmail.com**
+### 	:e-mail: How to reach me **nightsta1kerhf@gmail.com**
 
 
 <br />
