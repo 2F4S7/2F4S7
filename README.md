@@ -7,7 +7,7 @@
 ### Explore
 - Front End – HTML, CSS, JavaScript, Bootstrap
 - Back End – PHP, Python, NodeJS
-- Databases – MySQL, MongoDB, CouchDB, Hadoop
+- Databases – MySQL
 <!--   
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
