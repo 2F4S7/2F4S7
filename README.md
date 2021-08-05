@@ -4,11 +4,9 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=2f4s7&show_icons=true&theme=chartreuse-dark&locale=en&count_private=true&hide=issues&include_all_commits" alt="2f4s7" /></p>
 
-### :books:Explore
+### :books:I have skills
 
-- Front End – HTML, CSS, JavaScript, Bootstrap
-- Back End – PHP, Python, NodeJS
-- Databases – MySQL
+- Technical Skills: HTML, CSS, JavaScript, React-Redux!
 
 ### ⚡Hobby
 
@@ -18,7 +16,7 @@
 
 <br />
 
-### 	:e-mail: How to reach me **nightsta1kerhf@gmail.com**
+### 	:e-mail: How to reach me **mikhailprytychenko@gmail.com**
 
 
 <br />
