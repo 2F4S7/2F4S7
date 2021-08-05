@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mikhail    
+## Hi 👋, I'm Mikhail    ![](https://komarev.com/ghpvc/?username=2F4S7) 
 
 ## Stats:
 
