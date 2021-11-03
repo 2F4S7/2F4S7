@@ -39,8 +39,6 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2F4S7&label=Profile%20views&color=0e75b6&style=flat" alt="2F4S7" /> </p>
-
 <!-- thropy -->
 <a href="https://github.com/2F4S7">
     <p align="center">
