@@ -19,7 +19,12 @@
   <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman.js-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
-   <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material-555?logo=material-ui&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a></p>
+   <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material-555?logo=material-ui&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a>
+</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>
+
+</p>
 
 
 ## ⚡Hobby
@@ -34,11 +39,18 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2F4S7&show_icons=true&locale=en&theme=nord" alt="2F4S7" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2F4S7&show_icons=true&locale=en&layout=compact&langs_count=6&theme=nord" alt="mityaua" /></p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2F4S7&label=Profile%20views&color=0e75b6&style=flat" alt="2F4S7" /> </p>
 
+<!-- thropy -->
+<a href="https://github.com/2F4S7">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=2F4S7&column=7&theme=onedark"/>
+    </p>
+</a>
 
+<!-- status codes -->
+<a align="center" href="https://github.com/2F4S7">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=2F4S7&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2F4S7&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
