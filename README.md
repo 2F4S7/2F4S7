@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mikhailo! 👨‍💻</h1>
+<h1 align="center">Hi, I'm Mikhailo! </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=2F4S7&label=Profile%20views&color=0e75b6&style=flat" alt="2F4S7" /> </p>
 
 ## :e-mail: How to reach me **mikhailprytychenko@gmail.com**
@@ -20,15 +20,13 @@
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
    <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material-555?logo=material-ui&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a>
 </a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
 
 </p>
 
-## ⚡Hobby
+## ⚡Hobby <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### ✍🏼 I Love - Building UI with HTML / CSS, JavaScript, React. I have experience building a back end using NodeJS.
-
+### 👨‍💻I Love - Building UI with HTML / CSS, JavaScript, React. I have experience building a back end using NodeJS.
 <h2 align="left">Drafts:</h2>
 <p align="left">
 <a href="https://codesandbox.io/u/mityaua"><img src="https://img.shields.io/badge/Codesandbox-555?logo=codesandbox&style=for-the-badge" alt="codesandbox" /></a>
