@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mikhail! 👨‍💻</h1>
+<h1 align="center">Hi, I'm Mikhailo! 👨‍💻</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=2F4S7&label=Profile%20views&color=0e75b6&style=flat" alt="2F4S7" /> </p>
 
 ## :e-mail: How to reach me **mikhailprytychenko@gmail.com**
@@ -13,7 +13,6 @@
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
    <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a>
   <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a>
-  <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a>
   <a href="https://babeljs.io/"> <img src="https://img.shields.io/badge/Babel-555?logo=babel&style=for-the-badge" alt="babel" title="Babel" /></a>
   <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman.js-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
@@ -25,7 +24,6 @@
 <p>
 
 </p>
-
 
 ## ⚡Hobby
 
